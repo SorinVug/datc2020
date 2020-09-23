@@ -1,0 +1,6 @@
+Slack este o aplicatie software as-a-service care permite comunicarea intre doua sau mai multe entitati,in timp real.
+Principalele avantaje ale unei astfel de aplicatii sunt:
+	- posibilitatea de a discuta in privat cu o singura persoana sau crearea de grupuri tinta orientate pe un anumit topic,in vederea comunicarii;
+	- crearea grupurilor este o actiune de natura privata,accesul se face doar pe baza de invitatie;
+	- posibilitatea distribuiri de fisiere sau documente intre utilizatori;
+	- avantajul indexarii si arhivarii tuturor mesajelor,precum si a documentelor distribuite intre doi sau mai multi indivizi;
