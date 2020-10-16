@@ -1,0 +1,16 @@
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\bin\Debug\netcoreapp3.1\Lab4Application.exe
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\bin\Debug\netcoreapp3.1\Lab4Application.deps.json
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\bin\Debug\netcoreapp3.1\Lab4Application.runtimeconfig.json
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\bin\Debug\netcoreapp3.1\Lab4Application.runtimeconfig.dev.json
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\bin\Debug\netcoreapp3.1\Lab4Application.dll
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\bin\Debug\netcoreapp3.1\Lab4Application.pdb
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\obj\Debug\netcoreapp3.1\Lab4Application.csprojAssemblyReference.cache
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\obj\Debug\netcoreapp3.1\Lab4Application.AssemblyInfoInputs.cache
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\obj\Debug\netcoreapp3.1\Lab4Application.AssemblyInfo.cs
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\obj\Debug\netcoreapp3.1\Lab4Application.csproj.CoreCompileInputs.cache
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\obj\Debug\netcoreapp3.1\Lab4Application.csproj.CopyComplete
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\obj\Debug\netcoreapp3.1\Lab4Application.dll
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\obj\Debug\netcoreapp3.1\Lab4Application.pdb
+C:\Users\Sorin\Desktop\Anul-IV-Sem-I\DezvoltareaAplicatiilorTipCloud\Laborator\Lab4Application\obj\Debug\netcoreapp3.1\Lab4Application.genruntimeconfig.cache
